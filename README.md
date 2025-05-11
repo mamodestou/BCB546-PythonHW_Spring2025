@@ -2,7 +2,7 @@
 
 Outline of the files in the repository:
 
-* `BCB546-PythonHW_Spring2025.ipynb`: Jupyter notebook file containing the code, function 
+* `HW #3 - Python.ipynb`: Jupyter notebook file containing the code, function 
 descriptions, comments, answers to questions, and other relevant explanations for the assignment.
 
 * `penguins_cytb.fasta`: FASTA file containing the DNA sequences for the Cytochrome b of the penguin species. 
